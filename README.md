@@ -5,12 +5,6 @@
 ## Overview
 This repository contains the analysis and recommendations derived from "The Great American Coffee Taste Test" dataset.
 
-## Project Structure
-- /data: Contains the dataset used for analysis.
-- /notebooks: Jupyter Notebook with the detailed analysis.
-- /visualizations: Visual representations of key insights.
-- /docs: Documentation and recommendations.
-
 ## Analysis Highlights
 - Age Group Preferences
 - Brewing Preferences
