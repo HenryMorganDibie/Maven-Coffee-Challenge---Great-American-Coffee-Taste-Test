@@ -29,16 +29,6 @@ This repository contains the analysis and recommendations derived from "The Grea
    - Offer premium options for higher spenders.
    - Emphasize value in marketing efforts.
 
-## Code
-- /notebooks/analysis.ipynb
-
-## Visuals
-![Age Group Preferences](visualizations/age_group_preferences.png)
-![Brewing Preferences](visualizations/brewing_preferences.png)
-
 ## Acknowledgments
-- Dataset sourced from [source].
-- Used [library] for data analysis.
-
-## License
-This project is licensed under the [Your Chosen License] - see the [LICENSE.md](LICENSE.md) file for details.
+- Dataset sourced from [(https://mavenanalytics.io/challenges/maven-coffee-challenge/30)].
+- Used [Power BI and Jupyter notebook] for data analysis.
